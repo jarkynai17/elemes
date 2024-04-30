@@ -1,0 +1,137 @@
+.footer {
+    display: flex;
+    gap: 110px;
+}
+
+.f-logo {
+    margin-top: 80px;
+}
+
+.f-logo p {
+    margin-top: 20px;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.f-icons {
+    display: flex;
+    gap: 8px;
+    margin-top: 33px;
+}
+
+.f-categories {
+    margin-top: 80px;
+}
+
+.f-categories h3 {
+    margin-bottom: 33px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.f-categories li {
+    margin-bottom: 19px;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+    list-style: none;
+}
+
+.f-about-us {
+    margin-top: 80px;
+}
+
+.f-about-us h3 {
+    margin-bottom: 33px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.f-about-us li {
+    width: 102px;
+    margin-bottom: 19px;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+    list-style: none;
+}
+
+.f-news-letter {
+    margin-top: 80px;
+}
+
+.f-news-letter h3 {
+    margin-bottom: 33px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.f-news-letter p {
+    margin-bottom: 18px;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.f-form {
+    display: flex;
+}
+
+.f-form input {
+    width: 250px;
+    height: 40px;
+    top: 2590px;
+    left: 1003px;
+    border-radius: 8px 0px 0px 8px;
+    border: 1px 0px 1px 1px;
+    outline: none;
+}
+
+.f-form input::placeholder {
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 107px 4px 15px;
+    color: #000;
+}
+
+.f-form button {
+    width: 60px;
+    height: 40px;
+    top: 2590px;
+    left: 1193px;
+    border-radius: 0px 8px 8px 0px;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.f-email {
+    margin-top: 19px;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+}
+
+.f-phone {
+    margin-top: -10px;
+    display: flex;
+    align-items: center;
+    margin-left: -8px;
+}
+
+.f-phone img {
+    width: 35px;
+    height: 35px;
+    
+
+}

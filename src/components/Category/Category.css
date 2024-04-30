@@ -1,0 +1,25 @@
+.category {
+    padding-bottom: 150px;
+    padding-top: 45px;
+}
+
+.c-list {
+    font-size: 38px;
+    font-weight: 600;
+    margin-bottom: 32px;
+}
+.c-list span{
+    color: #8BAC3E;
+}
+
+.c-item {
+    margin-top: 42px;
+    display: flex;
+    justify-content: space-between;
+}
+.c-item .c-img12 {
+    list-style: none;
+    padding: 30px 81px;
+    border-radius: 8px;
+    text-align: center;
+}
